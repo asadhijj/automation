@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [Pull Request Link](https://github.com/asadhijj/Web-Scraping-Lab/pull/1)
+- [Pull Request Link](https://github.com/asadhijj/automation/pull/1)
 
 
 ### Setup
